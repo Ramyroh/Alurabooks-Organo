@@ -1,0 +1,16 @@
+.Time {
+    text-align: center;
+    padding: 32px;
+}
+.Time h3 {
+    font-size: 32px;
+    border-bottom: solid 4px;
+    padding: 1rem;
+    display: inline-block;
+}
+.card{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+    flex-wrap: wrap;
+}
